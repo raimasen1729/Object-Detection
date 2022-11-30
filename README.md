@@ -24,3 +24,14 @@ Ground truth at each FPN level example <br>
 Outputs example <br>
 <img src="https://user-images.githubusercontent.com/46754269/203448522-bbdb91a1-cc46-4cdf-b65f-85e21b9df0ee.png" width="500" height="300"> 
 
+## Faster-RCNN
+Train and Validation Loss <br>
+
+<img src="https://user-images.githubusercontent.com/46754269/203440029-a88a843a-7cdc-453c-9793-6b55b4de369b.png" width="400" height="300">  <img src="https://user-images.githubusercontent.com/46754269/203440065-a7771ff7-2c3b-4291-8c1d-886b5a637998.png" width="400" height="300"> <br>
+Train and validation loss over each epoch <br>
+<img src="https://user-images.githubusercontent.com/46754269/203446331-94011ab6-89d0-4d72-a6c8-187c34267bb3.png" width="400" height="300">  <img src="https://user-images.githubusercontent.com/46754269/203448393-743d5a69-6327-4231-aa04-f1fec7615627.png" width="400" height="300"> <br>
+Ground truth at each FPN level example <br>
+<img src="https://user-images.githubusercontent.com/46754269/203444295-0f00ea48-9f6b-4890-9eef-cf057072e422.png" width="400" height="300">  <img src="https://user-images.githubusercontent.com/46754269/203444361-a24cb170-d503-4a2a-8d0f-0c3a816c2c13.png" width="400" height="300">  <img src="https://user-images.githubusercontent.com/46754269/203444409-cffbc164-8e51-4b55-9b0e-964312ddba5f.png" width="400" height="300">  <img src="https://user-images.githubusercontent.com/46754269/203444477-859ff165-02ce-48b1-bb74-507a9703266f.png" width="400" height="300">  <img src="https://user-images.githubusercontent.com/46754269/203444523-2795525c-a540-433c-b677-4d27c72a5591.png" width="400" height="300"> <br>
+Outputs example <br>
+<img src="https://user-images.githubusercontent.com/46754269/203448522-bbdb91a1-cc46-4cdf-b65f-85e21b9df0ee.png" width="500" height="300"> 
+
